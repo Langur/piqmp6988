@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+src/piqmp6988/__init__.py
+src/piqmp6988/piqmp6988.py
+src/piqmp6988.egg-info/PKG-INFO
+src/piqmp6988.egg-info/SOURCES.txt
+src/piqmp6988.egg-info/dependency_links.txt
+src/piqmp6988.egg-info/requires.txt
+src/piqmp6988.egg-info/top_level.txt
