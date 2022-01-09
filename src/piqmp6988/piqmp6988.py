@@ -150,9 +150,9 @@ class PiQmp6988():
         config_i = {
             'address' : Address.LOW.value,
             'filter' : Filter.COEFFECT_OFF.value,
-            'mode': Powermode.SLEEP.value
+            'mode': Powermode.SLEEP.value,
             'pressure' : Oversampling.SKIP.value,
-            'temperature' : Oversampling.SKIP.value,
+            'temperature' : Oversampling.SKIP.value
         }
         self.__modify_config(config_i)
         self.__modify_config(config)

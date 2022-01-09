@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: piqmp6988
-Version: 1.0.0
+Version: 1.0.1
 Summary: To use QMP6988 with pigpio.
 Home-page: https://github.com/Langur/piqmp6988
 Author: Akihisa ONODA
